@@ -44,7 +44,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 <br>
 
@@ -76,7 +75,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-fajersztejn/" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Fajersztejn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lkz_drummer@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-lkz__drummer@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/lucas_fajersztejn/" target="_blank"><img src="https://img.shields.io/badge/-@lucas__fajersztejn-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
