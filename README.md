@@ -74,7 +74,7 @@
 ## <p align="center"><b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/lucas-fajersztejn/" target="_blank"><img src="https://img.shields.io/badge/-Lucas%20Fajersztejn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:lucas.fajersztejn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-lkz__drummer@hotmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:lucas.fajersztejn@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-lucas.fajersztejn@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
