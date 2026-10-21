@@ -8,7 +8,8 @@ and dealt with customers every day. I finished the Ironhack web
 development bootcamp in 2024 and I have been building and shipping
 projects since then.
 
-📄 [Resume](https://drive.google.com/file/d/1mzODysSSttKIZfzitj8mTQo2iVg3qDMV/view) · 
+📄 [🇬🇧 Resume](https://drive.google.com/file/d/1Rc7P4kSc4Fx8FmaDV3giGZvyTz4JhsYo/view?usp=sharing) · 
+📄 [🇪🇸 Resume](https://drive.google.com/file/d/1wbJ1WUa6oCoVVsxQJDs1_VU1FsIK9LFf/view?usp=sharing) · 
 💼 [LinkedIn](https://www.linkedin.com/in/lucas-fajersztejn/) · 
 ✉️ lucas.fajersztejn@gmail.com
 
